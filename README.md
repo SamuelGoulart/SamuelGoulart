@@ -1,14 +1,19 @@
 <h1 align="center" >Samuel Goulart</h1>
- <h2>
-    Sobre min.
- </h2>
- <p> Sou estudante na área de Desenvolvimento de sistemas, estou a procura de um estágio ou trainee, para implementar todo conhecimento que adquirir e estou adquirindo através dos estudos constantes. Estou em busca de crescimento profissional. Atualmente estou fazendo o curso de Técnico de desenvolvimento de sistemas, no período das 7:30 até 11:30.</p>
-  <br>
+ 
+ ## 😄 Sobre Mim:
+
+<ul>
+ <li>💻 Estou procurando emprego na área de Desenvolvimento Back-end ou Front-end</li>
+ <li>📚 Estou cursando o 2° semestre de técnico em Desenvolvimento de Sistemas no Senai - Jandira</li>
+ <li>🚀 Aprendendo sempre! </li>
+</ul>
+
+<br>
 
 ![Total de commit no gitHub](https://github-readme-stats.vercel.app/api?username=SamuelGoulart&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelGoulart&layout=compact&show_icons=true&theme=radical)
 
-Tecnologias 🚀
+ ### 🚀 Tecnologias 
 
 <img align="left" src="https://camo.githubusercontent.com/5d3b0191832237fcbfc6d4497524e8bb547c6bfc9eafb738d5205c629d202067/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c352532302d2532334533344632362e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465" >
 
@@ -24,14 +29,7 @@ Tecnologias 🚀
 
 ![PHP](https://user-images.githubusercontent.com/62961331/116013676-caa93200-a607-11eb-841f-31b600c80101.png)
 
-
-
-
-<br>
-<br>
-
-🔧 Ferramentas
-
+ ### 🔧 Ferramentas
 
 ![visualStudioCode](https://user-images.githubusercontent.com/62961331/116012522-4d7abe80-a601-11eb-8fdb-a50125359d1e.png)&nbsp;&nbsp;
 ![figma](https://user-images.githubusercontent.com/62961331/116012567-99c5fe80-a601-11eb-8534-7fa12589aa6e.png)&nbsp;&nbsp;
@@ -39,12 +37,18 @@ Tecnologias 🚀
 ![xampp](https://user-images.githubusercontent.com/62961331/116012843-6c7a5000-a603-11eb-86ab-938b77d0e265.png)&nbsp;&nbsp;
 ![git](https://user-images.githubusercontent.com/62961331/116012990-0fcb6500-a604-11eb-9075-d5e6dea48090.png)&nbsp;&nbsp;
 ![github](https://user-images.githubusercontent.com/62961331/116013112-c3345980-a604-11eb-9f84-d39718b7dabd.png)&nbsp;&nbsp;
-
-
 <br>
-<br>
-Minha redes socias
-<br><br>
-<a align="left" href="www.linkedin.com/in/samuelgoulart/">
-<img src="https://camo.githubusercontent.com/a493f6833f99fb3c85788d6d9305e6b7a42b838e5ee5d138fd9a8214a7e77472/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465">
-</a>
+
+### Minha redes socias
+
+<a href="https://www.linkedin.com/in/samuel-almeida-goulart-18a04a155/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+
+ ## Total de Visitas no perfil :detective: <br>
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/SamuelGoulart/count.svg" />
+ </p>
+ 
+ #### 😄 Estou feliz, por está aqui
+ 
+ 
+
