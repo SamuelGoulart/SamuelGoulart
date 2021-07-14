@@ -4,7 +4,7 @@
 
 <ul>
  <li>💻 Estou procurando emprego na área de Desenvolvimento Back-end ou Front-end</li>
- <li>📚 Estou cursando o 2° semestre de técnico em Desenvolvimento de Sistemas no Senai - Jandira</li>
+ <li>📚 Estou cursando o 3° semestre de técnico em Desenvolvimento de Sistemas no Senai - Jandira</li>
  <li>🚀 Aprendendo sempre! </li>
 </ul>
 
