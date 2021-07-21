@@ -5,6 +5,7 @@
 <ul>
  <li>💻 Estou procurando emprego na área de Desenvolvimento Back-end ou Front-end</li>
  <li>📚 Estou cursando o 3° semestre de técnico em Desenvolvimento de Sistemas no Senai - Jandira</li>
+ <li>🚀 Acesse meu portfólio, <a href="https://samuelgoulart.github.io/Portfolio/index.html" >cliqui aqui!</a> </li>
  <li>🚀 Aprendendo sempre! </li>
 </ul>
 
