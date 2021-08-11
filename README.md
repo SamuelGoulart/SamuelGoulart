@@ -44,11 +44,11 @@
 
 <a href="https://www.linkedin.com/in/samuel-almeida-goulart-18a04a155/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 
- ## Total de Visitas no perfil :detective: <br>
+<!--  ## Total de Visitas no perfil :detective: <br>
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/SamuelGoulart/count.svg" />
  </p>
- 
+  -->
  #### 😄 Estou feliz, por está aqui
  
  
