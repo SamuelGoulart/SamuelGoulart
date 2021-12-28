@@ -4,8 +4,8 @@
 
 <ul>
  <li>💻 Trabalhando na Alphacode IT Solutions</li>
- <li>📚 Formado como Técnico em Informática no SENAC - Lapa Tito</li>
- <li>📚 Formado como Técnico em Desenvolvimento de Sistemas no SENAI - Jandira</li>
+ <li>📚 Formado como Técnico em Informática - SENAC Lapa Tito</li>
+ <li>📚 Formado como Técnico de Desenvolvimento de Sistemas - SENAI Jandira</li>
  <li>🚀 Acesse meu portfólio, <a href="https://samuelgoulart.github.io/Portfolio/index.html" >cliqui aqui!</a> </li>
  <li>🚀 Aprendendo sempre! </li>
 </ul>
