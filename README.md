@@ -1,6 +1,6 @@
 <h1 align="center" >Samuel Goulart</h1>
  
- ## 😄 Sobre Mim:
+ ##  Sobre Mim: 😄
 
 <ul>
  <li>💻 Trabalhando na Alphacode IT Solutions</li>
