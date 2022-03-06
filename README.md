@@ -26,22 +26,43 @@
 
 
  ## Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
+ 
+ ### Front-end
+ <img align="left" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+ <img align="left" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+ <img align="left" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+ <img align="left" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+ <img align="left" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 
-<img align="left" src="https://camo.githubusercontent.com/5d3b0191832237fcbfc6d4497524e8bb547c6bfc9eafb738d5205c629d202067/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c352532302d2532334533344632362e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465" >
+ </br>
+ 
+ ### Back-end
+ <img align="left" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+ <img align="left" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+ <img align="left" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 
-<img align="left" src="https://camo.githubusercontent.com/b430f12ce9355be8c36aecb45e5d77311d156b88b35e4a180df1eac8952e1c3c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176617363726970742d2532334637444631452e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b">
+ </br>
+ 
+ ### Moblie
+ <img align="left" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
+ <img align="left" src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white">
 
-<img align="left" src="https://camo.githubusercontent.com/5ed492db9c79ad5990eda7dc80923377f0e7096b18a4d1e9b86c8987dc0e5aa5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f637373332532302d2532333135373242362e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465">
+ </br>
+ 
+ ### Banco de dados
+ <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" >
+ 
+ ### Gerenciador de pacotes
+ <img align="left" src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" >
+ <img align="left" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" >
+ 
+ </br>
+ 
+ ### Prototipação
+ <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" >
 
-<img align="left" src="https://camo.githubusercontent.com/c567bc8fea35a350406f3ad80e2ec6dd76dea5f756187908f35322bbbc8bc77c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f626f6f7473747261702532302d2532333536334437432e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d626f6f747374726170266c6f676f436f6c6f723d7768697465">
 
-<img align="left" src="https://camo.githubusercontent.com/20f8a4f1e9c33b1cffb1968cda82ced5b6cd5d6c5a09865eab911724b1917d76/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d7973716c2d2532333030662e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465">
-
-<img align="left" src="https://camo.githubusercontent.com/19f686ee7be9e84e002135a16411658939d431a3f6c7f513498ff2d1e511b5b9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176612d2532334544384230302e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6a617661266c6f676f436f6c6f723d7768697465">
-
-![PHP](https://user-images.githubusercontent.com/62961331/116013676-caa93200-a607-11eb-841f-31b600c80101.png)
-
- ### 🔧 Ferramentas
+ ## 🔧 Ferramentas
 
 ![visualStudioCode](https://user-images.githubusercontent.com/62961331/116012522-4d7abe80-a601-11eb-8fdb-a50125359d1e.png)&nbsp;&nbsp;
 ![figma](https://user-images.githubusercontent.com/62961331/116012567-99c5fe80-a601-11eb-8534-7fa12589aa6e.png)&nbsp;&nbsp;
@@ -53,7 +74,9 @@
 
 ### Minha rede social
 
-<a href="https://www.linkedin.com/in/samuel-almeida-goulart-18a04a155/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+<a href="https://www.linkedin.com/in/samuel-almeida-goulart-18a04a155/" target="_blank">
+ <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>  
 
 <!--  ## Total de Visitas no perfil :detective: <br>
  <p align="center"> 
