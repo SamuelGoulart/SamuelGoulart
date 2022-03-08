@@ -58,14 +58,22 @@
  
 </br>
 
+### Cloud
+
+<img align="left" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" >
+<img align="left" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" >
+<img align="left" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" >
+
+</br>
+
  ## 🔧 Ferramentas
 
-![visualStudioCode](https://user-images.githubusercontent.com/62961331/116012522-4d7abe80-a601-11eb-8fdb-a50125359d1e.png)&nbsp;&nbsp;
-![figma](https://user-images.githubusercontent.com/62961331/116012567-99c5fe80-a601-11eb-8534-7fa12589aa6e.png)&nbsp;&nbsp;
-![studio](https://user-images.githubusercontent.com/62961331/116012773-f83fac80-a602-11eb-9d95-09aad31f725c.png)&nbsp;&nbsp;
-![xampp](https://user-images.githubusercontent.com/62961331/116012843-6c7a5000-a603-11eb-86ab-938b77d0e265.png)&nbsp;&nbsp;
-![git](https://user-images.githubusercontent.com/62961331/116012990-0fcb6500-a604-11eb-9075-d5e6dea48090.png)&nbsp;&nbsp;
-![github](https://user-images.githubusercontent.com/62961331/116013112-c3345980-a604-11eb-9f84-d39718b7dabd.png)&nbsp;&nbsp;
+
+<img align="left" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+<img align="left" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+<img align="left" src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white">
+<img align="left" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black">
+
 <br>
 
 ### Meus contatos
