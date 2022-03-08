@@ -68,10 +68,16 @@
 ![github](https://user-images.githubusercontent.com/62961331/116013112-c3345980-a604-11eb-9f84-d39718b7dabd.png)&nbsp;&nbsp;
 <br>
 
-### Minha rede social
+### Meus contatos
 
 <a href="https://www.linkedin.com/in/samuel-almeida-goulart-18a04a155/" target="_blank">
  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>  
+<a href="https://wa.me/+5511968387212" target="_blank">
+ <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+</a>  
+<a href="mailto:samuel.a.goulart@gmail.com?subject=Hello%20again" target="_blank">
+ <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>  
 
 
