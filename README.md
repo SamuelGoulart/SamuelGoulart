@@ -3,7 +3,7 @@
  ##  Sobre Mim: 😄
 
 <ul>
- <li>💻 Trabalhando na Alphacode IT Solutions</li>
+ <li>💻 Trabalhando na Pagtel</li>
  <li>📚 Formado como Técnico em Informática - SENAC Lapa Tito</li>
  <li>📚 Formado como Técnico de Desenvolvimento de Sistemas - SENAI Jandira</li>
  <li>📚 Crusando faculdade de Análise e Desenvolvimento de Sistemas - FIAP</li>
