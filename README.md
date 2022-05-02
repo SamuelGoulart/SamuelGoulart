@@ -93,7 +93,7 @@
 </br>
 </br>
 
-[![Spotify](https://samuelgoulart.vercel.app/api/spotify)](https://open.spotify.com/user/samuel_a_goulart)
+[![Spotify](https://samuelgoulart.vercel.app/api/spotify?background_color=000000&border_color=000000)](https://open.spotify.com/user/samuel_a_goulart)
 
 
 
