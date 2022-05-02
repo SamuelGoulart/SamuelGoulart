@@ -89,6 +89,13 @@
  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>  
 
+</br>
+</br>
+</br>
+
+[![Spotify](https://samuelgoulart.vercel.app/api/spotify)](https://open.spotify.com/user/samuel_a_goulart)
+
+
 
 
 <!--  ## Total de Visitas no perfil :detective: <br>
